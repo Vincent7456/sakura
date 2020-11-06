@@ -1,2 +1,2 @@
 # sakura
-Go through the process
+Make this space to share learning documents.
