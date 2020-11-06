@@ -1,7 +1,7 @@
 
 - download the jdk from <a href="http://jdk.java.net/15/" target="_blank">openJDK</a>.
 - use `tar zxvf jdk15.tar.gz` to unzip jdk file.
--c opy the unzipped folder to **/Library/Java/JavaVirtualMachines**.
+- copy the unzipped folder to **/Library/Java/JavaVirtualMachines**.
 - edit ~/.bash_profile.
 - run `source ~/.bash_profile`.
 
